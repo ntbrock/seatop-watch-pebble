@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>  <!-- Android Blue -->
+    <color name="colorPrimaryDark">#303F9F</color> <!-- Android Dark Blue -->
+    <!-- <color name="colorAccent">#FF4081</color> --> <!-- default pink, yucky -->
+    <color name="colorAccent">#37972E</color> <!-- Forest Green -->
+</resources>

@@ -1,0 +1,19 @@
+{
+  "uuid": "7db89cb2-8469-3266-960e-2498cdf4a306",
+  "shortName": "SeaTop",
+  "longName": "SeaTop for Pebble",
+  "companyName": "SeaTop",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  },
+  "capabilities": []
+}

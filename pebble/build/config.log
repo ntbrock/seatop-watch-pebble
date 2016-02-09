@@ -1,0 +1,21 @@
+# project  configured on Sun Feb  7 17:21:11 2016 by
+# waf 1.7.11 (abi 98, python 2070af0 on darwin)
+# using /Users/brockman/Library/Application Support/Pebble SDK/SDKs/current/sdk-core/pebble/waf configure
+#
+----------------------------------------
+Setting top to
+/Users/brockman/seatop/git/seatop-pebble/pebble
+----------------------------------------
+Setting out to
+/Users/brockman/seatop/git/seatop-pebble/pebble/build
+----------------------------------------
+Found Pebble SDK for aplite in:
+/Users/brockman/Library/Application Support/Pebble SDK/SDKs/current/sdk-core/pebble/aplite
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-gcc-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-gcc-ar'
